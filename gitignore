@@ -1,0 +1,18 @@
+# Environnements virtuels Python
+venv/
+.venv/
+env/
+
+# Fichiers de configuration & clés secrètes
+.env
+.env.local
+
+# Fichiers système et cache
+.DS_Store
+__pycache__/
+*.pyc
+
+# Dépendances Node.js / Next.js (futur frontend)
+node_modules/
+.next/
+out/
